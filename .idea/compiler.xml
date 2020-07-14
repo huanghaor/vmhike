@@ -10,6 +10,7 @@
         <module name="vmhike-configcenter" />
         <module name="vmhike-gateway" />
         <module name="vmhike-register" />
+        <module name="vmhike-search" />
       </profile>
     </annotationProcessing>
   </component>

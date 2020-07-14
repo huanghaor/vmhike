@@ -12,6 +12,7 @@
         <module>vmhike-register</module>
         <module>vmhike-common</module>
         <module>vmhike-gateway</module>
+        <module>vmhike-search</module>
     </modules>
     <packaging>pom</packaging>
 
