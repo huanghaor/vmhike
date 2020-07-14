@@ -7,6 +7,11 @@
     <groupId>com.hhr</groupId>
     <artifactId>vmhike</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>vmhike-configcenter</module>
+        <module>vmhike-register</module>
+        <module>vmhike-common</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
