@@ -11,6 +11,7 @@
         <module>vmhike-configcenter</module>
         <module>vmhike-register</module>
         <module>vmhike-common</module>
+        <module>vmhike-gateway</module>
     </modules>
     <packaging>pom</packaging>
 

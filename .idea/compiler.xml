@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="vmhike-common" />
         <module name="vmhike-configcenter" />
+        <module name="vmhike-gateway" />
         <module name="vmhike-register" />
       </profile>
     </annotationProcessing>
