@@ -11,3 +11,13 @@
     前端：vue、Element
     
     服务器：centos7,linux,docker
+
+## 模块说明
+
+    --vmhike-register[9991]      注册中心
+    
+    --vmhike-configcenter[9991]  配置中心
+    
+    --vmhike-gateway[9993]       网关中心
+    
+    --vmhike-common              公共模块
