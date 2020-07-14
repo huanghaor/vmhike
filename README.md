@@ -1,8 +1,8 @@
-##项目介绍
+## 项目介绍
     vmhike是一套微服务博客系统
     
     
-##技术选型
+## 技术选型
 
     后端：springCloud、springBoot、Spring Security OAuth2、redis、Elasticsearch、mybatis、druid、rabbitmq、LogStash
     
