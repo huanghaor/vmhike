@@ -3,7 +3,7 @@ package com.hhr.search.domain;
 import lombok.Data;
 
 /**
- * 随表日记
+ * 随笔日记
  */
 @Data
 public class EssayDiary {

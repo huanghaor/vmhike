@@ -1,10 +1,16 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Test {
     public static void main(String[] args) {
-        System.out.println(1.0/0);
-        System.out.println(0.0/0);
-        System.out.println(-1.0/0);
-        System.out.println(-0.0/0);
-        //System.out.println(0/0);
+        List<Float> numbers = new ArrayList<Float>();
+        numbers.add(-81.9275f);
+        numbers.add(-1.1245f);
+        numbers.add(-2.586f);
+
+
+        Float max = numbers.stream().reduce(Float::max).get();//得到最大值
+        System.out.println(max);
 
     }
 }
